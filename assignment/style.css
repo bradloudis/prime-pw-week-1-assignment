@@ -32,6 +32,10 @@ img{
   height: 300px;
   width: auto;
 }
+
+.images-block {
+  text-align: center;
+}
 /* Change the font-family of your list */
 ul{
   font-family: "Verdana", Sans-serif;
